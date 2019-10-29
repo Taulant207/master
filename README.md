@@ -42,12 +42,13 @@ The second paragraph text
 ## Qualitätssicherungsprozess <a name="quali"></a>
 The second paragraph text
 
-6. Uebergabe an den Betrieb: - Qualitaetssicherungprozess (separates Schriftliches Dokument, Uebergabeprotokoll) 7. Quellen
+## Quellen<a name="quellen"></a>
+The second paragraph text
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTA0MjUyNTYsMTkxNTU3OTY5MCw3Mj
-g0Mzk3NTEsMTcwNTE3NjQxNiwtMTIxMjYxODMwOCwtMTkzODc3
-OTE1MCwtMTAzNzg1MzY4MywtODA0ODYyMTk3LDE5NTA1MDg3OT
-gsMzc1MTYyNTcyLDM5NjE4NDIwNSwyMjQ5NjIwLC0yMDg4NzQ2
-NjEyLDkxMjE0NTIxMCwtMTMxMDkyNTk4NSwtMTIxMDAwNDQxNC
-wyNTc4MDY5MjhdfQ==
+eyJoaXN0b3J5IjpbODE1MDQ1NzI4LC0yMDUwNDI1MjU2LDE5MT
+U1Nzk2OTAsNzI4NDM5NzUxLDE3MDUxNzY0MTYsLTEyMTI2MTgz
+MDgsLTE5Mzg3NzkxNTAsLTEwMzc4NTM2ODMsLTgwNDg2MjE5Ny
+wxOTUwNTA4Nzk4LDM3NTE2MjU3MiwzOTYxODQyMDUsMjI0OTYy
+MCwtMjA4ODc0NjYxMiw5MTIxNDUyMTAsLTEzMTA5MjU5ODUsLT
+EyMTAwMDQ0MTQsMjU3ODA2OTI4XX0=
 -->
