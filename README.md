@@ -24,9 +24,9 @@ This is a sub paragraph, formatted in heading 3 style
 ### Software<a name="software"></a>
 This is a sub paragraph, formatted in heading 3 style
 
-. 3. Benoetigte Hard- und Software - Hardware (Materialliste, Funktionalitaet) - Software (Anforderungen, Firmware, OS-Image, ergaenzende SW-Packages, Abhängigkeiten, Funktionalitaet) 4. Installationsanleitung (Saubere und ausfuehrliche Dokumentation. Muss ohne Nachfragen oder Nachschlagen nachgebaut werden koennen) 5. Testing - Testverfahren (Vorgehensweise, Protokollierung, Dokumentation) 6. Uebergabe an den Betrieb: - Qualitaetssicherungprozess (separates Schriftliches Dokument, Uebergabeprotokoll) 7. Quellen
+4. Installationsanleitung (Saubere und ausfuehrliche Dokumentation. Muss ohne Nachfragen oder Nachschlagen nachgebaut werden koennen) 5. Testing - Testverfahren (Vorgehensweise, Protokollierung, Dokumentation) 6. Uebergabe an den Betrieb: - Qualitaetssicherungprozess (separates Schriftliches Dokument, Uebergabeprotokoll) 7. Quellen
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMTYzMjc4MiwtMTkzODc3OTE1MCwtMT
+eyJoaXN0b3J5IjpbLTcwMzI5ODY0OSwtMTkzODc3OTE1MCwtMT
 AzNzg1MzY4MywtODA0ODYyMTk3LDE5NTA1MDg3OTgsMzc1MTYy
 NTcyLDM5NjE4NDIwNSwyMjQ5NjIwLC0yMDg4NzQ2NjEyLDkxMj
 E0NTIxMCwtMTMxMDkyNTk4NSwtMTIxMDAwNDQxNCwyNTc4MDY5
