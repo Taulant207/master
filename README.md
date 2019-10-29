@@ -29,9 +29,9 @@ This is a sub paragraph, formatted in heading 3 style
 ## Installationsanleitung <a name="ware"></a>
 The second paragraph text
 
-4.Installationsanleitung (Saubere und ausfuehrliche Dokumentation. Muss ohne Nachfragen oder Nachschlagen nachgebaut werden koennen) 5. Testing - Testverfahren (Vorgehensweise, Protokollierung, Dokumentation) 6. Uebergabe an den Betrieb: - Qualitaetssicherungprozess (separates Schriftliches Dokument, Uebergabeprotokoll) 7. Quellen
+5. Testing - Testverfahren (Vorgehensweise, Protokollierung, Dokumentation) 6. Uebergabe an den Betrieb: - Qualitaetssicherungprozess (separates Schriftliches Dokument, Uebergabeprotokoll) 7. Quellen
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDUwMzkyMzYsLTE5Mzg3NzkxNTAsLT
+eyJoaXN0b3J5IjpbLTEyMTI2MTgzMDgsLTE5Mzg3NzkxNTAsLT
 EwMzc4NTM2ODMsLTgwNDg2MjE5NywxOTUwNTA4Nzk4LDM3NTE2
 MjU3MiwzOTYxODQyMDUsMjI0OTYyMCwtMjA4ODc0NjYxMiw5MT
 IxNDUyMTAsLTEzMTA5MjU5ODUsLTEyMTAwMDQ0MTQsMjU3ODA2
