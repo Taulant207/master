@@ -7,7 +7,7 @@
 	3.2. [Software](#software)
 4. [Installationsanleitung](#anleitung)
 5. [Testing](#testing)
-6. 
+6. [Übergabe an den Betrieb](#übergabe)
 
 ## Autoren, Versionierung des Dokumentes <a name="autoren"></a>
 Some introduction text, formatted in heading 2 style
@@ -34,11 +34,14 @@ The second paragraph text
 ## Testing<a name="testing"></a>
 The second paragraph text
 
+## Übergabe an den Betrieb <a name="übergabe"></a>
+The second paragraph text
+
 6. Uebergabe an den Betrieb: - Qualitaetssicherungprozess (separates Schriftliches Dokument, Uebergabeprotokoll) 7. Quellen
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NzU0NDczOCwxNzA1MTc2NDE2LC0xMj
-EyNjE4MzA4LC0xOTM4Nzc5MTUwLC0xMDM3ODUzNjgzLC04MDQ4
-NjIxOTcsMTk1MDUwODc5OCwzNzUxNjI1NzIsMzk2MTg0MjA1LD
-IyNDk2MjAsLTIwODg3NDY2MTIsOTEyMTQ1MjEwLC0xMzEwOTI1
-OTg1LC0xMjEwMDA0NDE0LDI1NzgwNjkyOF19
+eyJoaXN0b3J5IjpbNzI4NDM5NzUxLDE3MDUxNzY0MTYsLTEyMT
+I2MTgzMDgsLTE5Mzg3NzkxNTAsLTEwMzc4NTM2ODMsLTgwNDg2
+MjE5NywxOTUwNTA4Nzk4LDM3NTE2MjU3MiwzOTYxODQyMDUsMj
+I0OTYyMCwtMjA4ODc0NjYxMiw5MTIxNDUyMTAsLTEzMTA5MjU5
+ODUsLTEyMTAwMDQ0MTQsMjU3ODA2OTI4XX0=
 -->
