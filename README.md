@@ -2,7 +2,7 @@
 1. [Autoren, Versionierung des Dokumentes](#autoren)
 2. [Funktion des Services](#funktion)
 	2.1. [Beschreibung](#beschreibung)
-3. [Benoetigte Hard- und Software](#paragraph2)
+3. [Benötigte Hard- und Software](#ware)
 
 ## Autoren, Versionierung des Dokumentes <a name="autoren"></a>
 Some introduction text, formatted in heading 2 style
@@ -18,9 +18,9 @@ The second paragraph text
 
 . 3. Benoetigte Hard- und Software - Hardware (Materialliste, Funktionalitaet) - Software (Anforderungen, Firmware, OS-Image, ergaenzende SW-Packages, Abhängigkeiten, Funktionalitaet) 4. Installationsanleitung (Saubere und ausfuehrliche Dokumentation. Muss ohne Nachfragen oder Nachschlagen nachgebaut werden koennen) 5. Testing - Testverfahren (Vorgehensweise, Protokollierung, Dokumentation) 6. Uebergabe an den Betrieb: - Qualitaetssicherungprozess (separates Schriftliches Dokument, Uebergabeprotokoll) 7. Quellen
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwNTYzNzgyNiwtMTkzODc3OTE1MCwtMT
-AzNzg1MzY4MywtODA0ODYyMTk3LDE5NTA1MDg3OTgsMzc1MTYy
-NTcyLDM5NjE4NDIwNSwyMjQ5NjIwLC0yMDg4NzQ2NjEyLDkxMj
-E0NTIxMCwtMTMxMDkyNTk4NSwtMTIxMDAwNDQxNCwyNTc4MDY5
-MjhdfQ==
+eyJoaXN0b3J5IjpbLTEyMTk1NTY5NTMsLTE5Mzg3NzkxNTAsLT
+EwMzc4NTM2ODMsLTgwNDg2MjE5NywxOTUwNTA4Nzk4LDM3NTE2
+MjU3MiwzOTYxODQyMDUsMjI0OTYyMCwtMjA4ODc0NjYxMiw5MT
+IxNDUyMTAsLTEzMTA5MjU5ODUsLTEyMTAwMDQ0MTQsMjU3ODA2
+OTI4XX0=
 -->
