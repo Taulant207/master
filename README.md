@@ -9,14 +9,13 @@
 	3.2. [Software](#software)
 4. [Installationsanleitung](#anleitung)
 5. [Testing](#testing)
-6. [Übergabe an den Betrieb](#übergabe)
-7. [Qualitaetssicherungprozess](#quali)
-8. [Quellen](#quellen)
+6. [Qualitaetssicherungprozess](#quali)
+7. [Quellen](#quellen)
+
 
 ## Autoren, Versionierung des Dokumentes <a name="autoren"></a>
 **Version:** 1.0
 **Autoren:** Taulant Saliu, Trojan Veseli
-
 
 
 ## Funktion des Services <a name="funktion"></a>
@@ -45,8 +44,6 @@ Der Service "*ngrok*" wird von guten Firewalls blockiert und ist somit nicht zug
 - [ngrok (Linux ARM 64)]([https://ngrok.com/download](https://ngrok.com/download))
 
 
-
-
 ## Installationsanleitung <a name="anleitung"></a>
 **1**. Über oben genannten Link ngrok für Linux installieren.
 **2**. ngrok Datei ins Verzeichnis ~/ngrok/ auf dem RasPi kopieren.
@@ -54,7 +51,6 @@ Der Service "*ngrok*" wird von guten Firewalls blockiert und ist somit nicht zug
 &nbsp; &nbsp;&nbsp;cd ./ngrok
 &nbsp;&nbsp;&nbsp;&nbsp;./ngrok http 80
 **4**. Nun kann man über ~ http://"IpAdresse".ngrok.io/file.html ~ auf den &nbsp;&nbsp;&nbsp;&nbsp;RasPi zugreifen.
-
 
 
 ## Testing<a name="testing"></a>
@@ -67,15 +63,16 @@ http://"**IpAdresse**".ngrok.io/**file.html**
 ## Qualitätssicherungsprozess <a name="quali"></a>
 The second paragraph text
 
+
 ## Quellen<a name="quellen"></a>
 [ngrok offizielle Seite](https://ngrok.com/)
 [Spiegel Beitrag über El Chapo](https://www.spiegel.de/panorama/justiz/joaquin-guzman-el-chapo-floh-durch-diesen-tunnel-a-1043339.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMTU1OTM4MiwyMTE5NTk5NzY0LDIwMD
-Y2MDMyNjksMTA3ODE5ODg5OSwxNTM1ODM2MDYyLDk4MjA1MDE2
-MCwtMjA1MDQyNTI1NiwxOTE1NTc5NjkwLDcyODQzOTc1MSwxNz
-A1MTc2NDE2LC0xMjEyNjE4MzA4LC0xOTM4Nzc5MTUwLC0xMDM3
-ODUzNjgzLC04MDQ4NjIxOTcsMTk1MDUwODc5OCwzNzUxNjI1Nz
-IsMzk2MTg0MjA1LDIyNDk2MjAsLTIwODg3NDY2MTIsOTEyMTQ1
-MjEwXX0=
+eyJoaXN0b3J5IjpbODMwNTUxMzQ3LDIxMTk1OTk3NjQsMjAwNj
+YwMzI2OSwxMDc4MTk4ODk5LDE1MzU4MzYwNjIsOTgyMDUwMTYw
+LC0yMDUwNDI1MjU2LDE5MTU1Nzk2OTAsNzI4NDM5NzUxLDE3MD
+UxNzY0MTYsLTEyMTI2MTgzMDgsLTE5Mzg3NzkxNTAsLTEwMzc4
+NTM2ODMsLTgwNDg2MjE5NywxOTUwNTA4Nzk4LDM3NTE2MjU3Mi
+wzOTYxODQyMDUsMjI0OTYyMCwtMjA4ODc0NjYxMiw5MTIxNDUy
+MTBdfQ==
 -->
