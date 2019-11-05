@@ -2,7 +2,7 @@
 
 ## Inhaltsverzeichnis
 1. [Autoren, Versionierung des Dokumentes](#autoren)
-2. [Zielsetzung](#zielsetzung)
+2. [Vorwort](#vorwort)
 3. [Funktion des Services](#funktion)
 	2.1. [Zusatz](#zusatz)
 4. [Benötigte Hard- und Software](#ware)
@@ -18,7 +18,7 @@
 **Autoren:** Taulant Saliu, Trojan Veseli
 
 
-## Zielsetzung <a name="zielsetzung"></a>
+## Vorwort<a name="vorwort"></a>
 
 Das Ziel dieses Dokuments ist es, dass die Schüler ihre ersten Erfahrungen mit ngrok machen. Sie werden mit einem Beispiel aus der Realität konfrontiert, als eine Art Eselsbrücke. Die Schüler werden das Thema mit einem kleinen Quiz abschliessen.
 
@@ -71,11 +71,11 @@ Wenn man auf dem Smartphone Zugriff auf die Website hat, so hat man die Bestäti
 [ngrok offizielle Seite](https://ngrok.com/)<br>
 [Spiegel Beitrag über El Chapo](https://www.spiegel.de/panorama/justiz/joaquin-guzman-el-chapo-floh-durch-diesen-tunnel-a-1043339.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTY2NjA4MCwtMTY4NjU2Mzk0OCwtMz
-k5NDI0MDMwLDkyMDEyMzY1MCwxMDY5NjQ5ODI0LDIxMTk1OTk3
-NjQsMjAwNjYwMzI2OSwxMDc4MTk4ODk5LDE1MzU4MzYwNjIsOT
-gyMDUwMTYwLC0yMDUwNDI1MjU2LDE5MTU1Nzk2OTAsNzI4NDM5
-NzUxLDE3MDUxNzY0MTYsLTEyMTI2MTgzMDgsLTE5Mzg3NzkxNT
-AsLTEwMzc4NTM2ODMsLTgwNDg2MjE5NywxOTUwNTA4Nzk4LDM3
-NTE2MjU3Ml19
+eyJoaXN0b3J5IjpbMTcxOTY1NjM3NCwtMTE5NjY2MDgwLC0xNj
+g2NTYzOTQ4LC0zOTk0MjQwMzAsOTIwMTIzNjUwLDEwNjk2NDk4
+MjQsMjExOTU5OTc2NCwyMDA2NjAzMjY5LDEwNzgxOTg4OTksMT
+UzNTgzNjA2Miw5ODIwNTAxNjAsLTIwNTA0MjUyNTYsMTkxNTU3
+OTY5MCw3Mjg0Mzk3NTEsMTcwNTE3NjQxNiwtMTIxMjYxODMwOC
+wtMTkzODc3OTE1MCwtMTAzNzg1MzY4MywtODA0ODYyMTk3LDE5
+NTA1MDg3OThdfQ==
 -->
