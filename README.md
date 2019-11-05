@@ -14,8 +14,9 @@
 8. [Quellen](#quellen)
 
 ## Autoren, Versionierung des Dokumentes <a name="autoren"></a>
-Taulant Saliu
-Trojan Ves
+**Version:** 1.0
+**Autoren:** Taulant Saliu, Trojan Veseli
+
 
 
 ## Funktion des Services <a name="funktion"></a>
@@ -50,7 +51,7 @@ The second paragraph text
 ## Quellen<a name="quellen"></a>
 The second paragraph text
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NTU0NDk3OCwxNTM1ODM2MDYyLDk4Mj
+eyJoaXN0b3J5IjpbMjA1MDU2OTQ3OSwxNTM1ODM2MDYyLDk4Mj
 A1MDE2MCwtMjA1MDQyNTI1NiwxOTE1NTc5NjkwLDcyODQzOTc1
 MSwxNzA1MTc2NDE2LC0xMjEyNjE4MzA4LC0xOTM4Nzc5MTUwLC
 0xMDM3ODUzNjgzLC04MDQ4NjIxOTcsMTk1MDUwODc5OCwzNzUx
