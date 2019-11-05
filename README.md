@@ -46,9 +46,9 @@ Der Service "*ngrok*" wird von guten Firewalls blockiert und ist somit nicht zug
 ## Installationsanleitung <a name="anleitung"></a>
 **1**. Über oben genannten Link ngrok für Linux installieren.
 **2**. ngrok Datei ins Verzeichnis ~/ngrok/ auf dem RasPi kopieren.
-**3**. ngrok über folgende Commands auf RasPi starten:<br> &nbsp;&nbsp;&nbsp;&nbsp;cd
-&nbsp; &nbsp;&nbsp;cd ./ngrok
-&nbsp;&nbsp;&nbsp;&nbsp;./ngrok http 80
+**3**. ngrok über folgende Commands auf RasPi starten:<br> &nbsp;&nbsp;&nbsp;&nbsp;`cd`
+&nbsp; &nbsp;&nbsp;`cd ./ngrok`
+&nbsp;&nbsp;&nbsp;&nbsp;`./ngrok http 80`
 **4**. Nun kann man über ~ http://"IpAdresse".ngrok.io/file.html ~ auf den &nbsp;&nbsp;&nbsp;&nbsp;RasPi zugreifen.
 
 
@@ -65,11 +65,11 @@ Wenn man auf dem Smartphone Zugriff auf die Website hat, so hat man die Bestäti
 [ngrok offizielle Seite](https://ngrok.com/)
 [Spiegel Beitrag über El Chapo](https://www.spiegel.de/panorama/justiz/joaquin-guzman-el-chapo-floh-durch-diesen-tunnel-a-1043339.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTIwMTIzNjUwLDEwNjk2NDk4MjQsMjExOT
-U5OTc2NCwyMDA2NjAzMjY5LDEwNzgxOTg4OTksMTUzNTgzNjA2
-Miw5ODIwNTAxNjAsLTIwNTA0MjUyNTYsMTkxNTU3OTY5MCw3Mj
-g0Mzk3NTEsMTcwNTE3NjQxNiwtMTIxMjYxODMwOCwtMTkzODc3
-OTE1MCwtMTAzNzg1MzY4MywtODA0ODYyMTk3LDE5NTA1MDg3OT
-gsMzc1MTYyNTcyLDM5NjE4NDIwNSwyMjQ5NjIwLC0yMDg4NzQ2
-NjEyXX0=
+eyJoaXN0b3J5IjpbLTM5OTQyNDAzMCw5MjAxMjM2NTAsMTA2OT
+Y0OTgyNCwyMTE5NTk5NzY0LDIwMDY2MDMyNjksMTA3ODE5ODg5
+OSwxNTM1ODM2MDYyLDk4MjA1MDE2MCwtMjA1MDQyNTI1NiwxOT
+E1NTc5NjkwLDcyODQzOTc1MSwxNzA1MTc2NDE2LC0xMjEyNjE4
+MzA4LC0xOTM4Nzc5MTUwLC0xMDM3ODUzNjgzLC04MDQ4NjIxOT
+csMTk1MDUwODc5OCwzNzUxNjI1NzIsMzk2MTg0MjA1LDIyNDk2
+MjBdfQ==
 -->
