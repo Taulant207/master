@@ -14,7 +14,8 @@
 8. [Quellen](#quellen)
 
 ## Autoren, Versionierung des Dokumentes <a name="autoren"></a>
-
+Taulant Saliu
+Trojan Veseli
 
 
 ## Funktion des Services <a name="funktion"></a>
@@ -49,10 +50,10 @@ The second paragraph text
 ## Quellen<a name="quellen"></a>
 The second paragraph text
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODg5NjQ2NDMsMTUzNTgzNjA2Miw5OD
-IwNTAxNjAsLTIwNTA0MjUyNTYsMTkxNTU3OTY5MCw3Mjg0Mzk3
-NTEsMTcwNTE3NjQxNiwtMTIxMjYxODMwOCwtMTkzODc3OTE1MC
-wtMTAzNzg1MzY4MywtODA0ODYyMTk3LDE5NTA1MDg3OTgsMzc1
-MTYyNTcyLDM5NjE4NDIwNSwyMjQ5NjIwLC0yMDg4NzQ2NjEyLD
-kxMjE0NTIxMF19
+eyJoaXN0b3J5IjpbLTExOTI2NzI5MiwxNTM1ODM2MDYyLDk4Mj
+A1MDE2MCwtMjA1MDQyNTI1NiwxOTE1NTc5NjkwLDcyODQzOTc1
+MSwxNzA1MTc2NDE2LC0xMjEyNjE4MzA4LC0xOTM4Nzc5MTUwLC
+0xMDM3ODUzNjgzLC04MDQ4NjIxOTcsMTk1MDUwODc5OCwzNzUx
+NjI1NzIsMzk2MTg0MjA1LDIyNDk2MjAsLTIwODg3NDY2MTIsOT
+EyMTQ1MjEwXX0=
 -->
