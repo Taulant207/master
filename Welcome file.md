@@ -62,14 +62,14 @@ http://"**IpAdresse**".ngrok.io/**file.html**
 Wenn man auf dem Smartphone Zugriff auf die Website hat, so hat man die Bestätigung, dass es funktioniert hat.
 
 ## Quellen<a name="quellen"></a>
-[ngrok offizielle Seite](https://ngrok.com/)
+[ngrok offizielle Seite](https://ngrok.com/)<br>
 [Spiegel Beitrag über El Chapo](https://www.spiegel.de/panorama/justiz/joaquin-guzman-el-chapo-floh-durch-diesen-tunnel-a-1043339.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5OTQyNDAzMCw5MjAxMjM2NTAsMTA2OT
-Y0OTgyNCwyMTE5NTk5NzY0LDIwMDY2MDMyNjksMTA3ODE5ODg5
-OSwxNTM1ODM2MDYyLDk4MjA1MDE2MCwtMjA1MDQyNTI1NiwxOT
-E1NTc5NjkwLDcyODQzOTc1MSwxNzA1MTc2NDE2LC0xMjEyNjE4
-MzA4LC0xOTM4Nzc5MTUwLC0xMDM3ODUzNjgzLC04MDQ4NjIxOT
-csMTk1MDUwODc5OCwzNzUxNjI1NzIsMzk2MTg0MjA1LDIyNDk2
-MjBdfQ==
+eyJoaXN0b3J5IjpbLTE2ODY1NjM5NDgsLTM5OTQyNDAzMCw5Mj
+AxMjM2NTAsMTA2OTY0OTgyNCwyMTE5NTk5NzY0LDIwMDY2MDMy
+NjksMTA3ODE5ODg5OSwxNTM1ODM2MDYyLDk4MjA1MDE2MCwtMj
+A1MDQyNTI1NiwxOTE1NTc5NjkwLDcyODQzOTc1MSwxNzA1MTc2
+NDE2LC0xMjEyNjE4MzA4LC0xOTM4Nzc5MTUwLC0xMDM3ODUzNj
+gzLC04MDQ4NjIxOTcsMTk1MDUwODc5OCwzNzUxNjI1NzIsMzk2
+MTg0MjA1XX0=
 -->
