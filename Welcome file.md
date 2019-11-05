@@ -37,11 +37,11 @@ Der Service "*ngrok*" wird von guten Firewalls blockiert und ist somit nicht zug
 ## Benötigte Hard- und Software <a name="ware"></a>
 
 ### Hardware<a name="hardware"></a>
-- aufgesetzter RasPi
+- Aufgesetzter RasPi
 - Handy (3G, 4G)
-- 
+
 ### Software<a name="software"></a>
-This is a sub paragraph, formatted in heading 3 style
+- ngrok Service
 
 
 ## Installationsanleitung <a name="anleitung"></a>
@@ -60,10 +60,10 @@ The second paragraph text
 ## Quellen<a name="quellen"></a>
 The second paragraph text
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzA3MTM4MiwxNTM1ODM2MDYyLDk4Mj
-A1MDE2MCwtMjA1MDQyNTI1NiwxOTE1NTc5NjkwLDcyODQzOTc1
-MSwxNzA1MTc2NDE2LC0xMjEyNjE4MzA4LC0xOTM4Nzc5MTUwLC
-0xMDM3ODUzNjgzLC04MDQ4NjIxOTcsMTk1MDUwODc5OCwzNzUx
-NjI1NzIsMzk2MTg0MjA1LDIyNDk2MjAsLTIwODg3NDY2MTIsOT
-EyMTQ1MjEwXX0=
+eyJoaXN0b3J5IjpbLTE3NjY2NjE4NDAsMTUzNTgzNjA2Miw5OD
+IwNTAxNjAsLTIwNTA0MjUyNTYsMTkxNTU3OTY5MCw3Mjg0Mzk3
+NTEsMTcwNTE3NjQxNiwtMTIxMjYxODMwOCwtMTkzODc3OTE1MC
+wtMTAzNzg1MzY4MywtODA0ODYyMTk3LDE5NTA1MDg3OTgsMzc1
+MTYyNTcyLDM5NjE4NDIwNSwyMjQ5NjIwLC0yMDg4NzQ2NjEyLD
+kxMjE0NTIxMF19
 -->
