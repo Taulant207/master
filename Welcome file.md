@@ -21,7 +21,7 @@
 
 ## Funktion des Services <a name="funktion"></a>
 **Was ist ein Web Tunnel und wozu brauchen wir ngrok?**
-Mit einem Web Tunnel kann man einen (Reverse-Proxy) einbauen, 
+Mit einem Web Tunnel kann man einen (Reverse-Proxy) einbauen, um dann somit zum Beispiel auf den RasPi Zugriff zu erhalten. Dies kann man sich so vorstellen, das
 
 ### Beschreibung <a name="beschreibung"></a>
 This is a sub paragraph, formatted in heading 3 style
@@ -52,10 +52,10 @@ The second paragraph text
 ## Quellen<a name="quellen"></a>
 The second paragraph text
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2ODEyMDc4NCwxNTM1ODM2MDYyLDk4Mj
-A1MDE2MCwtMjA1MDQyNTI1NiwxOTE1NTc5NjkwLDcyODQzOTc1
-MSwxNzA1MTc2NDE2LC0xMjEyNjE4MzA4LC0xOTM4Nzc5MTUwLC
-0xMDM3ODUzNjgzLC04MDQ4NjIxOTcsMTk1MDUwODc5OCwzNzUx
-NjI1NzIsMzk2MTg0MjA1LDIyNDk2MjAsLTIwODg3NDY2MTIsOT
-EyMTQ1MjEwXX0=
+eyJoaXN0b3J5IjpbLTEzMzQzNzc3OTUsMTUzNTgzNjA2Miw5OD
+IwNTAxNjAsLTIwNTA0MjUyNTYsMTkxNTU3OTY5MCw3Mjg0Mzk3
+NTEsMTcwNTE3NjQxNiwtMTIxMjYxODMwOCwtMTkzODc3OTE1MC
+wtMTAzNzg1MzY4MywtODA0ODYyMTk3LDE5NTA1MDg3OTgsMzc1
+MTYyNTcyLDM5NjE4NDIwNSwyMjQ5NjIwLC0yMDg4NzQ2NjEyLD
+kxMjE0NTIxMF19
 -->
