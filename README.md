@@ -66,11 +66,13 @@ http://"**IpAdresse**".ngrok.io/**file.html**
 **IpAdresse**: Adresse des RasPi's
 **file.html**: Selbst erstellte Website, auf die man zugreifen möchte.
 
+Wenn man auf dem Smartphone Zugriff auf die Website hat, so hat man die Bestätigung, dass es funktioniert hat.
+
 ## Quellen<a name="quellen"></a>
 [ngrok offizielle Seite](https://ngrok.com/)
 [Spiegel Beitrag über El Chapo](https://www.spiegel.de/panorama/justiz/joaquin-guzman-el-chapo-floh-durch-diesen-tunnel-a-1043339.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3OTM1MTAyOSwyMTE5NTk5NzY0LDIwMD
+eyJoaXN0b3J5IjpbMTA2OTY0OTgyNCwyMTE5NTk5NzY0LDIwMD
 Y2MDMyNjksMTA3ODE5ODg5OSwxNTM1ODM2MDYyLDk4MjA1MDE2
 MCwtMjA1MDQyNTI1NiwxOTE1NTc5NjkwLDcyODQzOTc1MSwxNz
 A1MTc2NDE2LC0xMjEyNjE4MzA4LC0xOTM4Nzc5MTUwLC0xMDM3
