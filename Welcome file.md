@@ -45,6 +45,7 @@ Der Service "*ngrok*" wird von guten Firewalls blockiert und ist somit nicht zug
 
 
 
+
 ## Installationsanleitung <a name="anleitung"></a>
 **1**. Über oben genannten Link ngrok für Linux installieren.
 **2**. ngrok Datei ins Verzeichnis ~/ngrok/ auf dem RasPi kopieren.
@@ -69,10 +70,10 @@ The second paragraph text
 [ngrok offizielle Seite](https://ngrok.com/)
 [Spiegel Beitrag über El Chapo](https://www.spiegel.de/panorama/justiz/joaquin-guzman-el-chapo-floh-durch-diesen-tunnel-a-1043339.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3ODE5ODg5OSwxNTM1ODM2MDYyLDk4Mj
-A1MDE2MCwtMjA1MDQyNTI1NiwxOTE1NTc5NjkwLDcyODQzOTc1
-MSwxNzA1MTc2NDE2LC0xMjEyNjE4MzA4LC0xOTM4Nzc5MTUwLC
-0xMDM3ODUzNjgzLC04MDQ4NjIxOTcsMTk1MDUwODc5OCwzNzUx
-NjI1NzIsMzk2MTg0MjA1LDIyNDk2MjAsLTIwODg3NDY2MTIsOT
-EyMTQ1MjEwXX0=
+eyJoaXN0b3J5IjpbLTE2Njk2MDI0MjcsMTA3ODE5ODg5OSwxNT
+M1ODM2MDYyLDk4MjA1MDE2MCwtMjA1MDQyNTI1NiwxOTE1NTc5
+NjkwLDcyODQzOTc1MSwxNzA1MTc2NDE2LC0xMjEyNjE4MzA4LC
+0xOTM4Nzc5MTUwLC0xMDM3ODUzNjgzLC04MDQ4NjIxOTcsMTk1
+MDUwODc5OCwzNzUxNjI1NzIsMzk2MTg0MjA1LDIyNDk2MjAsLT
+IwODg3NDY2MTIsOTEyMTQ1MjEwXX0=
 -->
