@@ -61,14 +61,18 @@ http://"**IpAdresse**".ngrok.io/**file.html**
 
 
 ## Qualitätssicherungsprozess <a name="quali"></a>
-The second paragraph text
+Der Service kann nun getestet werden, indem man ein File erstellt und mit dem folgenden Link darauf zugreifen kann.
+http://"**IpAdresse**".ngrok.io/**file.html**
+**IpAdresse**: Adresse des RasPi's
+**file.html**: Selbst erstellte Website, auf die man zugreifen möchte.
+
 
 
 ## Quellen<a name="quellen"></a>
 [ngrok offizielle Seite](https://ngrok.com/)
 [Spiegel Beitrag über El Chapo](https://www.spiegel.de/panorama/justiz/joaquin-guzman-el-chapo-floh-durch-diesen-tunnel-a-1043339.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMwNTUxMzQ3LDIxMTk1OTk3NjQsMjAwNj
+eyJoaXN0b3J5IjpbOTk4MTExNTEzLDIxMTk1OTk3NjQsMjAwNj
 YwMzI2OSwxMDc4MTk4ODk5LDE1MzU4MzYwNjIsOTgyMDUwMTYw
 LC0yMDUwNDI1MjU2LDE5MTU1Nzk2OTAsNzI4NDM5NzUxLDE3MD
 UxNzY0MTYsLTEyMTI2MTgzMDgsLTE5Mzg3NzkxNTAsLTEwMzc4
