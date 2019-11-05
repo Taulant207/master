@@ -42,6 +42,7 @@ Der Service "*ngrok*" wird von guten Firewalls blockiert und ist somit nicht zug
 
 ### Software<a name="software"></a>
 - [ngrok Service auf RasPi]([https://ngrok.com/download](https://ngrok.com/download))
+-L
 
 
 
@@ -69,11 +70,11 @@ The second paragraph text
 [ngrok offizielle Seite](https://ngrok.com/)
 [Spiegel Beitrag über El Chapo](https://www.spiegel.de/panorama/justiz/joaquin-guzman-el-chapo-floh-durch-diesen-tunnel-a-1043339.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3ODE5ODg5OSwxNTM1ODM2MDYyLDk4Mj
-A1MDE2MCwtMjA1MDQyNTI1NiwxOTE1NTc5NjkwLDcyODQzOTc1
-MSwxNzA1MTc2NDE2LC0xMjEyNjE4MzA4LC0xOTM4Nzc5MTUwLC
-0xMDM3ODUzNjgzLC04MDQ4NjIxOTcsMTk1MDUwODc5OCwzNzUx
-NjI1NzIsMzk2MTg0MjA1LDIyNDk2MjAsLTIwODg3NDY2MTIsOT
-EyMTQ1MjEwLC0xMzEwOTI1OTg1LC0xMjEwMDA0NDE0LDI1Nzgw
-NjkyOF19
+eyJoaXN0b3J5IjpbLTE0NDU2MzgwLDEwNzgxOTg4OTksMTUzNT
+gzNjA2Miw5ODIwNTAxNjAsLTIwNTA0MjUyNTYsMTkxNTU3OTY5
+MCw3Mjg0Mzk3NTEsMTcwNTE3NjQxNiwtMTIxMjYxODMwOCwtMT
+kzODc3OTE1MCwtMTAzNzg1MzY4MywtODA0ODYyMTk3LDE5NTA1
+MDg3OTgsMzc1MTYyNTcyLDM5NjE4NDIwNSwyMjQ5NjIwLC0yMD
+g4NzQ2NjEyLDkxMjE0NTIxMCwtMTMxMDkyNTk4NSwtMTIxMDAw
+NDQxNF19
 -->
