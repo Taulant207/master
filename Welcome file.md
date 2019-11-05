@@ -28,20 +28,9 @@ Mit einem Web Tunnel kann man einen (Reverse-Proxy) einbauen, um dann somit zum 
 
 
 ### Zusatz<a name="zusatz"></a>
-Der Service
-Gut aufgesetzte (Firmen
-
--
-
-)Firewalls lassen den Tunnel (Reverse
-
--
-
-Proxy) nicht zu und
-
-blockie
-
-ren ihn. Auch an der TBZ musste ngrok.io als Dienst freigeschaltet werden:
+Der Service wird von guten Firewalls blockiert und ist somit nicht zugänglich.
+**Fazit:** Man kann nicht aus jedem Gef
+Gut aufgesetzte (Firmen)Firewalls lassen den Tunnel (Reverse Proxy) nicht zu und blockieren ihn. Auch an der TBZ musste ngrok.io als Dienst freigeschaltet werden:
 ## Benötigte Hard- und Software <a name="ware"></a>
 The second paragraph text
 
@@ -68,7 +57,7 @@ The second paragraph text
 ## Quellen<a name="quellen"></a>
 The second paragraph text
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mjg5ODQ0OTMsMTUzNTgzNjA2Miw5OD
+eyJoaXN0b3J5IjpbLTE3MTE4MDM1NzEsMTUzNTgzNjA2Miw5OD
 IwNTAxNjAsLTIwNTA0MjUyNTYsMTkxNTU3OTY5MCw3Mjg0Mzk3
 NTEsMTcwNTE3NjQxNiwtMTIxMjYxODMwOCwtMTkzODc3OTE1MC
 wtMTAzNzg1MzY4MywtODA0ODYyMTk3LDE5NTA1MDg3OTgsMzc1
