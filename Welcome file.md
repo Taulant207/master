@@ -2,19 +2,25 @@
 
 ## Inhaltsverzeichnis
 1. [Autoren, Versionierung des Dokumentes](#autoren)
-2. [Funktion des Services](#funktion)
+2. [Zielsetzung](#zielsetzung)
+3. [Funktion des Services](#funktion)
 	2.1. [Zusatz](#zusatz)
-3. [Benötigte Hard- und Software](#ware)
+4. [Benötigte Hard- und Software](#ware)
 	3.1. [Hardware](#hardware)
 	3.2. [Software](#software)
-4. [Installationsanleitung](#anleitung)
-5. [Qualitaetssicherungprozess](#quali)
-6. [Quellen](#quellen)
+5. [Installationsanleitung](#anleitung)
+6. [Qualitaetssicherungprozess](#quali)
+7. [Quellen](#quellen)
 
 
 ## Autoren, Versionierung des Dokumentes <a name="autoren"></a>
 **Version:** 1.0
 **Autoren:** Taulant Saliu, Trojan Veseli
+
+
+## Zielsetzung <a name="zielsetzung"></a>
+
+Das Ziel dieses Dokuments ist es, dass S
 
 
 ## Funktion des Services <a name="funktion"></a>
@@ -65,11 +71,11 @@ Wenn man auf dem Smartphone Zugriff auf die Website hat, so hat man die Bestäti
 [ngrok offizielle Seite](https://ngrok.com/)<br>
 [Spiegel Beitrag über El Chapo](https://www.spiegel.de/panorama/justiz/joaquin-guzman-el-chapo-floh-durch-diesen-tunnel-a-1043339.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODY1NjM5NDgsLTM5OTQyNDAzMCw5Mj
-AxMjM2NTAsMTA2OTY0OTgyNCwyMTE5NTk5NzY0LDIwMDY2MDMy
-NjksMTA3ODE5ODg5OSwxNTM1ODM2MDYyLDk4MjA1MDE2MCwtMj
-A1MDQyNTI1NiwxOTE1NTc5NjkwLDcyODQzOTc1MSwxNzA1MTc2
-NDE2LC0xMjEyNjE4MzA4LC0xOTM4Nzc5MTUwLC0xMDM3ODUzNj
-gzLC04MDQ4NjIxOTcsMTk1MDUwODc5OCwzNzUxNjI1NzIsMzk2
-MTg0MjA1XX0=
+eyJoaXN0b3J5IjpbMjAyMDMwODM2MywtMTY4NjU2Mzk0OCwtMz
+k5NDI0MDMwLDkyMDEyMzY1MCwxMDY5NjQ5ODI0LDIxMTk1OTk3
+NjQsMjAwNjYwMzI2OSwxMDc4MTk4ODk5LDE1MzU4MzYwNjIsOT
+gyMDUwMTYwLC0yMDUwNDI1MjU2LDE5MTU1Nzk2OTAsNzI4NDM5
+NzUxLDE3MDUxNzY0MTYsLTEyMTI2MTgzMDgsLTE5Mzg3NzkxNT
+AsLTEwMzc4NTM2ODMsLTgwNDg2MjE5NywxOTUwNTA4Nzk4LDM3
+NTE2MjU3Ml19
 -->
