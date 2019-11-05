@@ -51,7 +51,8 @@ Der Service "*ngrok*" wird von guten Firewalls blockiert und ist somit nicht zug
 **3**. ngrok über folgende Commands auf RasPi starten:<br> &nbsp;&nbsp;&nbsp;&nbsp;cd
 &nbsp; &nbsp;&nbsp;cd ./ngrok
 &nbsp;&nbsp;&nbsp;&nbsp;./ngrok http 80
-**4**. Nun kann man über http://xyz....123.ngrok.io/index.html
+**4**. Nun kann man über ~ http://"IpAdresse".ngrok.io/file.html ~
+
 
 
 ## Testing<a name="testing"></a>
@@ -67,11 +68,11 @@ The second paragraph text
 ## Quellen<a name="quellen"></a>
 The second paragraph text
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQxNTQzOTU0LDE1MzU4MzYwNjIsOTgyMD
-UwMTYwLC0yMDUwNDI1MjU2LDE5MTU1Nzk2OTAsNzI4NDM5NzUx
-LDE3MDUxNzY0MTYsLTEyMTI2MTgzMDgsLTE5Mzg3NzkxNTAsLT
-EwMzc4NTM2ODMsLTgwNDg2MjE5NywxOTUwNTA4Nzk4LDM3NTE2
-MjU3MiwzOTYxODQyMDUsMjI0OTYyMCwtMjA4ODc0NjYxMiw5MT
-IxNDUyMTAsLTEzMTA5MjU5ODUsLTEyMTAwMDQ0MTQsMjU3ODA2
-OTI4XX0=
+eyJoaXN0b3J5IjpbMTIxNzkxOTkyMywxNTM1ODM2MDYyLDk4Mj
+A1MDE2MCwtMjA1MDQyNTI1NiwxOTE1NTc5NjkwLDcyODQzOTc1
+MSwxNzA1MTc2NDE2LC0xMjEyNjE4MzA4LC0xOTM4Nzc5MTUwLC
+0xMDM3ODUzNjgzLC04MDQ4NjIxOTcsMTk1MDUwODc5OCwzNzUx
+NjI1NzIsMzk2MTg0MjA1LDIyNDk2MjAsLTIwODg3NDY2MTIsOT
+EyMTQ1MjEwLC0xMzEwOTI1OTg1LC0xMjEwMDA0NDE0LDI1Nzgw
+NjkyOF19
 -->
