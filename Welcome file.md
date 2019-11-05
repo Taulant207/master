@@ -12,7 +12,7 @@
 8. [Quellen](#quellen)
 
 ## Autoren, Versionierung des Dokumentes <a name="autoren"></a>
-Some introduction text, formatted in heading 2 style
+
 
 
 ## Funktion des Services <a name="funktion"></a>
@@ -47,9 +47,10 @@ The second paragraph text
 ## Quellen<a name="quellen"></a>
 The second paragraph text
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNTgzNjA2Miw5ODIwNTAxNjAsLTIwNT
-A0MjUyNTYsMTkxNTU3OTY5MCw3Mjg0Mzk3NTEsMTcwNTE3NjQx
-NiwtMTIxMjYxODMwOCwtMTkzODc3OTE1MCwtMTAzNzg1MzY4My
-wtODA0ODYyMTk3LDE5NTA1MDg3OTgsMzc1MTYyNTcyLDM5NjE4
-NDIwNSwyMjQ5NjIwLC0yMDg4NzQ2NjEyLDkxMjE0NTIxMF19
+eyJoaXN0b3J5IjpbMjc0OTEzMTI3LDE1MzU4MzYwNjIsOTgyMD
+UwMTYwLC0yMDUwNDI1MjU2LDE5MTU1Nzk2OTAsNzI4NDM5NzUx
+LDE3MDUxNzY0MTYsLTEyMTI2MTgzMDgsLTE5Mzg3NzkxNTAsLT
+EwMzc4NTM2ODMsLTgwNDg2MjE5NywxOTUwNTA4Nzk4LDM3NTE2
+MjU3MiwzOTYxODQyMDUsMjI0OTYyMCwtMjA4ODc0NjYxMiw5MT
+IxNDUyMTBdfQ==
 -->
