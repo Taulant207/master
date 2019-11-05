@@ -41,8 +41,9 @@ Der Service "*ngrok*" wird von guten Firewalls blockiert und ist somit nicht zug
 - Handy (3G, 4G)
 
 ### Software<a name="software"></a>
-- [ngrok (Linux ARM644)]([https://ngrok.com/download](https://ngrok.com/download))
 - Linux für Raspberry (Raspbian...)
+- [ngrok (Linux ARM 64)]([https://ngrok.com/download](https://ngrok.com/download))
+
 
 
 
@@ -57,7 +58,9 @@ Der Service "*ngrok*" wird von guten Firewalls blockiert und ist somit nicht zug
 
 
 ## Testing<a name="testing"></a>
-Der Service kann nun getestet werden, indem man ein File erstellt und mit dem oben genannten Link darauf zugreifen kann.
+Der Service kann nun getestet werden, indem man ein File erstellt und mit dem folgenden Link darauf zugreifen kann.
+http://"IpAdresse".ngrok.io/file.html
+IpAdresse: Adresse des RasPi's
 
 ## Übergabe an den Betrieb <a name="übergabe"></a>
 The second paragraph text
@@ -70,7 +73,7 @@ The second paragraph text
 [ngrok offizielle Seite](https://ngrok.com/)
 [Spiegel Beitrag über El Chapo](https://www.spiegel.de/panorama/justiz/joaquin-guzman-el-chapo-floh-durch-diesen-tunnel-a-1043339.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMzU4Mjg1MiwxMDc4MTk4ODk5LDE1Mz
+eyJoaXN0b3J5IjpbMjAwNjYwMzI2OSwxMDc4MTk4ODk5LDE1Mz
 U4MzYwNjIsOTgyMDUwMTYwLC0yMDUwNDI1MjU2LDE5MTU1Nzk2
 OTAsNzI4NDM5NzUxLDE3MDUxNzY0MTYsLTEyMTI2MTgzMDgsLT
 E5Mzg3NzkxNTAsLTEwMzc4NTM2ODMsLTgwNDg2MjE5NywxOTUw
