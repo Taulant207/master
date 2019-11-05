@@ -46,10 +46,15 @@ Der Service "*ngrok*" wird von guten Firewalls blockiert und ist somit nicht zug
 
 
 ## Installationsanleitung <a name="anleitung"></a>
-1. 
-2. Installierte ngrok Version für Linux ins Verzeichnis ~/ngrok/ kopieren
+1. Über oben genannten Link ngrok für Linux installieren.
+2. ngrok Datei ins Verzeichnis ~/ngrok/ auf dem RasPi kopieren.
+3.  cd
+
+cd ./ngrok
 
 .
+
+/ngrok http 80
 
 ## Testing<a name="testing"></a>
 The second paragraph text
@@ -64,7 +69,7 @@ The second paragraph text
 ## Quellen<a name="quellen"></a>
 The second paragraph text
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4Mjk1NDUzNywxNTM1ODM2MDYyLDk4Mj
+eyJoaXN0b3J5IjpbMTMzNDc4ODk4MiwxNTM1ODM2MDYyLDk4Mj
 A1MDE2MCwtMjA1MDQyNTI1NiwxOTE1NTc5NjkwLDcyODQzOTc1
 MSwxNzA1MTc2NDE2LC0xMjEyNjE4MzA4LC0xOTM4Nzc5MTUwLC
 0xMDM3ODUzNjgzLC04MDQ4NjIxOTcsMTk1MDUwODc5OCwzNzUx
