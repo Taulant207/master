@@ -41,8 +41,8 @@ Der Service "*ngrok*" wird von guten Firewalls blockiert und ist somit nicht zug
 - Handy (3G, 4G)
 
 ### Software<a name="software"></a>
-- [ngrok Service auf RasPi]([https://ngrok.com/download](https://ngrok.com/download))
-
+- [ngrok (Linux ARM644)]([https://ngrok.com/download](https://ngrok.com/download))
+- Linux für Raspberry (Raspbian...)
 
 
 
@@ -70,10 +70,10 @@ The second paragraph text
 [ngrok offizielle Seite](https://ngrok.com/)
 [Spiegel Beitrag über El Chapo](https://www.spiegel.de/panorama/justiz/joaquin-guzman-el-chapo-floh-durch-diesen-tunnel-a-1043339.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2Njk2MDI0MjcsMTA3ODE5ODg5OSwxNT
-M1ODM2MDYyLDk4MjA1MDE2MCwtMjA1MDQyNTI1NiwxOTE1NTc5
-NjkwLDcyODQzOTc1MSwxNzA1MTc2NDE2LC0xMjEyNjE4MzA4LC
-0xOTM4Nzc5MTUwLC0xMDM3ODUzNjgzLC04MDQ4NjIxOTcsMTk1
-MDUwODc5OCwzNzUxNjI1NzIsMzk2MTg0MjA1LDIyNDk2MjAsLT
-IwODg3NDY2MTIsOTEyMTQ1MjEwXX0=
+eyJoaXN0b3J5IjpbLTczMzU4Mjg1MiwxMDc4MTk4ODk5LDE1Mz
+U4MzYwNjIsOTgyMDUwMTYwLC0yMDUwNDI1MjU2LDE5MTU1Nzk2
+OTAsNzI4NDM5NzUxLDE3MDUxNzY0MTYsLTEyMTI2MTgzMDgsLT
+E5Mzg3NzkxNTAsLTEwMzc4NTM2ODMsLTgwNDg2MjE5NywxOTUw
+NTA4Nzk4LDM3NTE2MjU3MiwzOTYxODQyMDUsMjI0OTYyMCwtMj
+A4ODc0NjYxMiw5MTIxNDUyMTBdfQ==
 -->
