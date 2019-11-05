@@ -20,7 +20,8 @@
 
 
 ## Funktion des Services <a name="funktion"></a>
-The first paragraph text
+**Was ist ngrok und wozu sollte man es brauchen?**
+
 
 ### Beschreibung <a name="beschreibung"></a>
 This is a sub paragraph, formatted in heading 3 style
@@ -51,7 +52,7 @@ The second paragraph text
 ## Quellen<a name="quellen"></a>
 The second paragraph text
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MDU2OTQ3OSwxNTM1ODM2MDYyLDk4Mj
+eyJoaXN0b3J5IjpbLTI4MzIyNjI3MywxNTM1ODM2MDYyLDk4Mj
 A1MDE2MCwtMjA1MDQyNTI1NiwxOTE1NTc5NjkwLDcyODQzOTc1
 MSwxNzA1MTc2NDE2LC0xMjEyNjE4MzA4LC0xOTM4Nzc5MTUwLC
 0xMDM3ODUzNjgzLC04MDQ4NjIxOTcsMTk1MDUwODc5OCwzNzUx
