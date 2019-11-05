@@ -61,10 +61,7 @@ Der Service "*ngrok*" wird von guten Firewalls blockiert und ist somit nicht zug
 Der Service kann nun getestet werden, indem man ein File erstellt und mit dem folgenden Link darauf zugreifen kann.
 http://"**IpAdresse**".ngrok.io/**file.html**
 **IpAdresse**: Adresse des RasPi's
-file.html: Selbst erstellte Website, auf die man zugreifen möchte.
-
-## Übergabe an den Betrieb <a name="übergabe"></a>
-The second paragraph text
+**file.html**: Selbst erstellte Website, auf die man zugreifen möchte.
 
 
 ## Qualitätssicherungsprozess <a name="quali"></a>
@@ -74,10 +71,11 @@ The second paragraph text
 [ngrok offizielle Seite](https://ngrok.com/)
 [Spiegel Beitrag über El Chapo](https://www.spiegel.de/panorama/justiz/joaquin-guzman-el-chapo-floh-durch-diesen-tunnel-a-1043339.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExOTU5OTc2NCwyMDA2NjAzMjY5LDEwNz
-gxOTg4OTksMTUzNTgzNjA2Miw5ODIwNTAxNjAsLTIwNTA0MjUy
-NTYsMTkxNTU3OTY5MCw3Mjg0Mzk3NTEsMTcwNTE3NjQxNiwtMT
-IxMjYxODMwOCwtMTkzODc3OTE1MCwtMTAzNzg1MzY4MywtODA0
-ODYyMTk3LDE5NTA1MDg3OTgsMzc1MTYyNTcyLDM5NjE4NDIwNS
-wyMjQ5NjIwLC0yMDg4NzQ2NjEyLDkxMjE0NTIxMF19
+eyJoaXN0b3J5IjpbMTkxMTU1OTM4MiwyMTE5NTk5NzY0LDIwMD
+Y2MDMyNjksMTA3ODE5ODg5OSwxNTM1ODM2MDYyLDk4MjA1MDE2
+MCwtMjA1MDQyNTI1NiwxOTE1NTc5NjkwLDcyODQzOTc1MSwxNz
+A1MTc2NDE2LC0xMjEyNjE4MzA4LC0xOTM4Nzc5MTUwLC0xMDM3
+ODUzNjgzLC04MDQ4NjIxOTcsMTk1MDUwODc5OCwzNzUxNjI1Nz
+IsMzk2MTg0MjA1LDIyNDk2MjAsLTIwODg3NDY2MTIsOTEyMTQ1
+MjEwXX0=
 -->
