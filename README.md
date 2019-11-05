@@ -20,7 +20,7 @@
 
 ## Zielsetzung <a name="zielsetzung"></a>
 
-Das Ziel dieses Dokuments ist es, dass die Schüler ihre ersten Erfahrungen mit ngrok machen. Sie werden mit einem Beispiel aus der Realität konfrontiert, als eine Art Eselsbrücke. Die Schüler werden das Thema mit einem kleinen W
+Das Ziel dieses Dokuments ist es, dass die Schüler ihre ersten Erfahrungen mit ngrok machen. Sie werden mit einem Beispiel aus der Realität konfrontiert, als eine Art Eselsbrücke. Die Schüler werden das Thema mit einem kleinen Quiz abschliessen.
 
 
 ## Funktion des Services <a name="funktion"></a>
@@ -71,11 +71,11 @@ Wenn man auf dem Smartphone Zugriff auf die Website hat, so hat man die Bestäti
 [ngrok offizielle Seite](https://ngrok.com/)<br>
 [Spiegel Beitrag über El Chapo](https://www.spiegel.de/panorama/justiz/joaquin-guzman-el-chapo-floh-durch-diesen-tunnel-a-1043339.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU3NDgzODAyLC0xNjg2NTYzOTQ4LC0zOT
-k0MjQwMzAsOTIwMTIzNjUwLDEwNjk2NDk4MjQsMjExOTU5OTc2
-NCwyMDA2NjAzMjY5LDEwNzgxOTg4OTksMTUzNTgzNjA2Miw5OD
-IwNTAxNjAsLTIwNTA0MjUyNTYsMTkxNTU3OTY5MCw3Mjg0Mzk3
-NTEsMTcwNTE3NjQxNiwtMTIxMjYxODMwOCwtMTkzODc3OTE1MC
-wtMTAzNzg1MzY4MywtODA0ODYyMTk3LDE5NTA1MDg3OTgsMzc1
-MTYyNTcyXX0=
+eyJoaXN0b3J5IjpbLTExOTY2NjA4MCwtMTY4NjU2Mzk0OCwtMz
+k5NDI0MDMwLDkyMDEyMzY1MCwxMDY5NjQ5ODI0LDIxMTk1OTk3
+NjQsMjAwNjYwMzI2OSwxMDc4MTk4ODk5LDE1MzU4MzYwNjIsOT
+gyMDUwMTYwLC0yMDUwNDI1MjU2LDE5MTU1Nzk2OTAsNzI4NDM5
+NzUxLDE3MDUxNzY0MTYsLTEyMTI2MTgzMDgsLTE5Mzg3NzkxNT
+AsLTEwMzc4NTM2ODMsLTgwNDg2MjE5NywxOTUwNTA4Nzk4LDM3
+NTE2MjU3Ml19
 -->
