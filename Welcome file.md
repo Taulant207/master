@@ -56,7 +56,7 @@ Der Service "*ngrok*" wird von guten Firewalls blockiert und ist somit nicht zug
 
 
 ## Testing<a name="testing"></a>
-Der Service kann nun getestet werden, indem man 
+Der Service kann nun getestet werden, indem man ein File erstellt und mit dem oben genannten Link darauf zugreifen kann.
 
 ## Übergabe an den Betrieb <a name="übergabe"></a>
 The second paragraph text
@@ -66,9 +66,10 @@ The second paragraph text
 The second paragraph text
 
 ## Quellen<a name="quellen"></a>
-The second paragraph text
+[ngrok offizielle Seite](https://ngrok.com/)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMzg5NjY2NiwxNTM1ODM2MDYyLDk4Mj
+eyJoaXN0b3J5IjpbMTk1Njg4Njk3NywxNTM1ODM2MDYyLDk4Mj
 A1MDE2MCwtMjA1MDQyNTI1NiwxOTE1NTc5NjkwLDcyODQzOTc1
 MSwxNzA1MTc2NDE2LC0xMjEyNjE4MzA4LC0xOTM4Nzc5MTUwLC
 0xMDM3ODUzNjgzLC04MDQ4NjIxOTcsMTk1MDUwODc5OCwzNzUx
