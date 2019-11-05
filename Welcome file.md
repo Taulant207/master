@@ -23,7 +23,9 @@
 **Was ist ein Web Tunnel und wozu brauchen wir ngrok?**
 Mit einem Web Tunnel kann man einen (Reverse-Proxy) einbauen, um dann somit zum Beispiel auf den RasPi Zugriff zu erhalten. Dies kann man sich so vorstellen, wie wenn ein Inhaftierter durch einen Tunnel aus dem Knast versucht zu fliehen.<br> Beispiel [El Chapo](https://www.spiegel.de/panorama/justiz/joaquin-guzman-el-chapo-floh-durch-diesen-tunnel-a-1043339.html)
 
-"ngrok" ist in ein Service
+"ngrok" ist in ein Service, welches eine Verbindung zum ngrok-Clouddienst herstellt. Es akzeptiert 
+  
+Es stellt eine Verbindung zum ngrok-Clouddienst her, der Datenverkehr über eine öffentliche Adresse akzeptiert und diesen Datenverkehr an den auf Ihrem Computer ausgeführten ngrok-Prozess und dann an die von Ihnen angegebene lokale Adresse weiterleitet.
 
 ### Beschreibung <a name="beschreibung"></a>
 This is a sub paragraph, formatted in heading 3 style
@@ -54,10 +56,10 @@ The second paragraph text
 ## Quellen<a name="quellen"></a>
 The second paragraph text
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODkzMTY2NjQsMTUzNTgzNjA2Miw5OD
-IwNTAxNjAsLTIwNTA0MjUyNTYsMTkxNTU3OTY5MCw3Mjg0Mzk3
-NTEsMTcwNTE3NjQxNiwtMTIxMjYxODMwOCwtMTkzODc3OTE1MC
-wtMTAzNzg1MzY4MywtODA0ODYyMTk3LDE5NTA1MDg3OTgsMzc1
-MTYyNTcyLDM5NjE4NDIwNSwyMjQ5NjIwLC0yMDg4NzQ2NjEyLD
-kxMjE0NTIxMF19
+eyJoaXN0b3J5IjpbLTk3NTAxNDgxLDE1MzU4MzYwNjIsOTgyMD
+UwMTYwLC0yMDUwNDI1MjU2LDE5MTU1Nzk2OTAsNzI4NDM5NzUx
+LDE3MDUxNzY0MTYsLTEyMTI2MTgzMDgsLTE5Mzg3NzkxNTAsLT
+EwMzc4NTM2ODMsLTgwNDg2MjE5NywxOTUwNTA4Nzk4LDM3NTE2
+MjU3MiwzOTYxODQyMDUsMjI0OTYyMCwtMjA4ODc0NjYxMiw5MT
+IxNDUyMTBdfQ==
 -->
