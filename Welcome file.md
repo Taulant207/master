@@ -20,7 +20,7 @@
 
 ## Zielsetzung <a name="zielsetzung"></a>
 
-Das Ziel dieses Dokuments ist es, dass S
+Das Ziel dieses Dokuments ist es, dass die Schüler ihre ersten Erfahrungen mit ngrok machen. 
 
 
 ## Funktion des Services <a name="funktion"></a>
@@ -71,7 +71,7 @@ Wenn man auf dem Smartphone Zugriff auf die Website hat, so hat man die Bestäti
 [ngrok offizielle Seite](https://ngrok.com/)<br>
 [Spiegel Beitrag über El Chapo](https://www.spiegel.de/panorama/justiz/joaquin-guzman-el-chapo-floh-durch-diesen-tunnel-a-1043339.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMDMwODM2MywtMTY4NjU2Mzk0OCwtMz
+eyJoaXN0b3J5IjpbMTk3NjIwNjE1NCwtMTY4NjU2Mzk0OCwtMz
 k5NDI0MDMwLDkyMDEyMzY1MCwxMDY5NjQ5ODI0LDIxMTk1OTk3
 NjQsMjAwNjYwMzI2OSwxMDc4MTk4ODk5LDE1MzU4MzYwNjIsOT
 gyMDUwMTYwLC0yMDUwNDI1MjU2LDE5MTU1Nzk2OTAsNzI4NDM5
