@@ -3,7 +3,7 @@
 ## Inhaltsverzeichnis
 1. [Autoren, Versionierung des Dokumentes](#autoren)
 2. [Funktion des Services](#funktion)
-	2.1. [Beschreibung](#beschreibung)
+	2.1. [Zusatz](#zusatz)
 3. [Benötigte Hard- und Software](#ware)
 	3.1. [Hardware](#hardware)
 	3.2. [Software](#software)
@@ -27,9 +27,21 @@ Mit einem Web Tunnel kann man einen (Reverse-Proxy) einbauen, um dann somit zum 
 "ngrok" ist in ein Service, welches eine Verbindung zum ngrok-Clouddienst herstellt. Es akzeptiert öffentlichen Datenverkehr und leitet diese durch den ngrok-Prozess an die angegebene lokale Adresse weiter. - *In unserem El Chapo Beispiel wären es die Werkzeuge und Personen, die ihn dabei geholfen hatten.*
 
 
-### Beschreibung <a name="beschreibung"></a>
-This is a sub paragraph, formatted in heading 3 style
+### Zusatz<a name="zusatz"></a>
+Der Service
+Gut aufgesetzte (Firmen
 
+-
+
+)Firewalls lassen den Tunnel (Reverse
+
+-
+
+Proxy) nicht zu und
+
+blockie
+
+ren ihn. Auch an der TBZ musste ngrok.io als Dienst freigeschaltet werden:
 ## Benötigte Hard- und Software <a name="ware"></a>
 The second paragraph text
 
@@ -56,11 +68,11 @@ The second paragraph text
 ## Quellen<a name="quellen"></a>
 The second paragraph text
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NDM2MTk4OSwxNTM1ODM2MDYyLDk4Mj
-A1MDE2MCwtMjA1MDQyNTI1NiwxOTE1NTc5NjkwLDcyODQzOTc1
-MSwxNzA1MTc2NDE2LC0xMjEyNjE4MzA4LC0xOTM4Nzc5MTUwLC
-0xMDM3ODUzNjgzLC04MDQ4NjIxOTcsMTk1MDUwODc5OCwzNzUx
-NjI1NzIsMzk2MTg0MjA1LDIyNDk2MjAsLTIwODg3NDY2MTIsOT
-EyMTQ1MjEwLC0xMzEwOTI1OTg1LC0xMjEwMDA0NDE0LDI1Nzgw
-NjkyOF19
+eyJoaXN0b3J5IjpbLTE4Mjg5ODQ0OTMsMTUzNTgzNjA2Miw5OD
+IwNTAxNjAsLTIwNTA0MjUyNTYsMTkxNTU3OTY5MCw3Mjg0Mzk3
+NTEsMTcwNTE3NjQxNiwtMTIxMjYxODMwOCwtMTkzODc3OTE1MC
+wtMTAzNzg1MzY4MywtODA0ODYyMTk3LDE5NTA1MDg3OTgsMzc1
+MTYyNTcyLDM5NjE4NDIwNSwyMjQ5NjIwLC0yMDg4NzQ2NjEyLD
+kxMjE0NTIxMCwtMTMxMDkyNTk4NSwtMTIxMDAwNDQxNCwyNTc4
+MDY5MjhdfQ==
 -->
